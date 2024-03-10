@@ -6,5 +6,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hankersore)
 
   <a href="#">
-    <img align="center" alt="Dilshoda's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankersore&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Dilshoda's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankersore&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=fff" />
   </a>
